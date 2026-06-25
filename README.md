@@ -32,9 +32,9 @@ I'm a self-hosting enthusiast and genuinely passionate about **CI/CD** — I run
 
 | Project | Description | Stack |
 |---|---|---|
-| [Quote & Invoicing System](https://github.com/alexistapleton) | Full quote and invoicing application with a Rust/Axum REST API backend (clean architecture, repository pattern, service layer) and a Vue.js/TypeScript front-end. Self-hosted on a Raspberry Pi with NGINX reverse proxy and a GitLab CI/CD pipeline. | Rust, Axum, PostgreSQL, Vue.js, TypeScript |
-| [C2C Marketplace Platform](https://github.com/alexistapleton) | Real-time messaging system (SignalR), full Stripe payment flow, and CRUD address management. Deployed via GitHub to Microsoft Azure. | C#, ASP.NET Core, Blazor, Stripe API |
-| [Biblio](https://github.com/alexistapleton) | Library management system (group project, 4 contributors) covering libraries, authors, publishers, documents, loans with business-rule restrictions, and events. Built generic services/repositories, full DTO/mapper layer, and 189 unit & mock tests. Deployed on Azure. | Java, Spring Boot, Vaadin, PostgreSQL |
+| [Quote & Invoicing System](https://github.com/AlexiStapleton/dfapp) | Full quote and invoicing application with a Rust/Axum REST API backend (clean architecture, repository pattern, service layer) and a Vue.js/TypeScript front-end. Self-hosted on a Raspberry Pi with NGINX reverse proxy and a GitLab CI/CD pipeline. | Rust, Axum, PostgreSQL, Vue.js, TypeScript |
+| [C2C Marketplace Platform](https://github.com/Dreycod/Clothes2U) | Real-time messaging system (SignalR), full Stripe payment flow, and CRUD address management. Deployed via GitHub to Microsoft Azure. | C#, ASP.NET Core, Blazor, Stripe API |
+| [Biblio](https://github.com/AlexiStapleton/SAE_6_Java) | Library management system (group project, 4 contributors) covering libraries, authors, publishers, documents, loans with business-rule restrictions, and events. Built generic services/repositories, full DTO/mapper layer, and 189 unit & mock tests. Deployed on Azure. | Java, Spring Boot, Vaadin, PostgreSQL |
 
 ### 🎓 Background
 
@@ -80,9 +80,9 @@ Passionné de self-hosting et sincèrement passionné par le **CI/CD**, je gère
 
 | Projet | Description | Stack |
 |---|---|---|
-| [Quote & Invoicing System](https://github.com/alexistapleton) | Application complète de devis et facturation avec un backend Rust/Axum en API REST (architecture propre, repository pattern, couche de service) et un front-end Vue.js/TypeScript. Auto-hébergée sur un Raspberry Pi avec reverse proxy NGINX et pipeline GitLab CI/CD. | Rust, Axum, PostgreSQL, Vue.js, TypeScript |
-| [C2C Marketplace Platform](https://github.com/alexistapleton) | Système de messagerie temps réel (SignalR), flux de paiement complet via Stripe, et gestion d'adresses en CRUD. Déployé via GitHub sur Microsoft Azure. | C#, ASP.NET Core, Blazor, Stripe API |
-| [Biblio](https://github.com/alexistapleton) | Système de gestion de bibliothèques (projet de groupe, 4 contributeurs) couvrant bibliothèques, auteurs, éditeurs, documents, emprunts avec restrictions métier, et événements. Services/repositories génériques, couche DTO/mapper complète, et 189 tests unitaires et mock. Déployé sur Azure. | Java, Spring Boot, Vaadin, PostgreSQL |
+| [Quote & Invoicing System](https://github.com/AlexiStapleton/dfapp) | Application complète de devis et facturation avec un backend Rust/Axum en API REST (architecture propre, repository pattern, couche de service) et un front-end Vue.js/TypeScript. Auto-hébergée sur un Raspberry Pi avec reverse proxy NGINX et pipeline GitLab CI/CD. | Rust, Axum, PostgreSQL, Vue.js, TypeScript |
+| [C2C Marketplace Platform](https://github.com/Dreycod/Clothes2U) | Système de messagerie temps réel (SignalR), flux de paiement complet via Stripe, et gestion d'adresses en CRUD. Déployé via GitHub sur Microsoft Azure. | C#, ASP.NET Core, Blazor, Stripe API |
+| [Biblio](https://github.com/AlexiStapleton/SAE_6_Java) | Système de gestion de bibliothèques (projet de groupe, 4 contributeurs) couvrant bibliothèques, auteurs, éditeurs, documents, emprunts avec restrictions métier, et événements. Services/repositories génériques, couche DTO/mapper complète, et 189 tests unitaires et mock. Déployé sur Azure. | Java, Spring Boot, Vaadin, PostgreSQL |
 
 ### 🎓 Parcours
 
