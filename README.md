@@ -14,7 +14,7 @@
 
 ## 🇬🇧 About me
 
-I'm a Junior Back-End Developer with a Bachelor's degree in Computer Science (BUT Informatique), specialized in **Rust and C#**, with solid experience building REST APIs and server-side applications. I'm currently based in France and relocating to **Hong Kong (Working Holiday Visa, valid until 09/2027)**.
+I'm a Junior Back-End Developer with a Bachelor's degree in Computer Science (BUT Informatique), specialized in **Rust, C# and Java**, with solid experience building REST APIs and server-side applications. I'm currently based in France and relocating to **Hong Kong (Working Holiday Visa, valid until 09/2027)**.
 
 I'm a self-hosting enthusiast and genuinely passionate about **CI/CD** — I run my own home server on a Raspberry Pi, managing deployment pipelines, NGINX reverse proxy, and domain configuration end to end. I care about clean architecture and systems performance, and I enjoy automating everything that can be automated.
 
@@ -62,9 +62,9 @@ I'm a self-hosting enthusiast and genuinely passionate about **CI/CD** — I run
 
 ## 🇫🇷 À propos de moi
 
-Je suis développeur back-end junior, titulaire d'un Bachelor en informatique (BUT Informatique), spécialisé en **Rust et C#**, avec une solide expérience dans la création d'API REST et d'applications serveur. Je suis actuellement basé en France et je m'installe à **Hong Kong (Working Holiday Visa, valide jusqu'en 09/2027)**.
+Je suis développeur back-end junior, titulaire d'un Bachelor en informatique (BUT Informatique), spécialisé en **Rust, C# et Java**, avec une solide expérience dans la création d'API REST et d'applications serveur. Je suis actuellement basé en France et je m'installe à **Hong Kong (Working Holiday Visa, valide jusqu'en 09/2027)**.
 
-Passionné de self-hosting et sincèrement passionné par le **CI/CD**, je gère mon propre serveur personnel sur un Raspberry Pi, de bout en bout : pipelines de déploiement, reverse proxy NGINX, configuration de domaine. J'accorde beaucoup d'importance à l'architecture propre et à la performance des systèmes, et j'aime automatiser tout ce qui peut l'être.
+Passionné de self-hosting et sincèrement passionné par la **CI/CD**, je gère mon propre serveur personnel sur un Raspberry Pi, de bout en bout : pipelines de déploiement, reverse proxy NGINX, configuration de domaine. J'accorde beaucoup d'importance à l'architecture propre et à la performance des systèmes, et j'aime automatiser tout ce qui peut l'être.
 
 **Disponible pour :** un poste de développeur back-end à Hong Kong, ou des missions freelance backend/infra.
 
