@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alexis Stapleton 👋</h1>
 
 <p align="center">
-  Junior Back-End Developer | C# · Rust · PHP | Self-Hosting & CI/CD Enthusiast
+  Junior Back-End Developer | C# · Rust · Java · PHP | Self-Hosting & CI/CD Enthusiast
 </p>
 
 <p align="center">
